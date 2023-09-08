@@ -1,6 +1,6 @@
 <h1>Olá! &#x1F44B;&#x1F604;</h1>
 
-Um pouco sobre mim:
+Um pouquinho sobre mim:
 
     🎓 Graduações: Gestão da Informação e Análise e Desenvolvimento de Sistemas;
     🔬 Meta: Iniciar especialização em Inteligência Artificial ou alguma área correlata à Ciência de Dados;
