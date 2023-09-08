@@ -112,7 +112,11 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
 <img src="./icons/dbeaver.svg" height="40px" alt="DBeaver">
 
 <h5>&#x27A1; Repositórios / Versionamento</h5>
-<img src="./icons/git.svg" height="40px" alt="Git"> <img src="./icons/gitlab.svg" height="40px" alt="GitLab"> <img src="./icons/github.svg" height="40px" alt="GitHub">
+<p float="left">
+    <img src="./icons/git.svg" height="40px" alt="Git">
+    <img src="./icons/gitlab.svg" height="40px" alt="GitLab">
+    <img src="./icons/github.svg" height="40px" alt="GitHub">
+</p>
 
 <h5>&#x1F468;&#x200D;&#x1F4BB; Ferramentas mais utilizadas</h5>
 
