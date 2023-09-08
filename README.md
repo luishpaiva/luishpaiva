@@ -13,10 +13,10 @@ Um pouquinho sobre mim:
 <hr>
 
 <h2>&#x1F4C8; Meus <em>status</em> no GitHub</h2>
-<div style="display: table; margin: auto;">
+<div style="text-align: center;">
     <a href="https://github.com/luishpaiva">
-    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=luishpaiva&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishpaiva&layout=compact&langs_count=16"/></a>
+    <img height="216em" src="https://github-readme-stats.vercel.app/api?username=luishpaiva&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="216em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishpaiva&layout=compact&langs_count=16"/></a>
 </div>
 
 <hr>
