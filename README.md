@@ -62,6 +62,8 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/npm.svg" height="40px" alt="npm">
     <img src="./icons/yarn.svg" height="40px" alt="yarn">
     <img src="./icons/chocolatey.svg" height="40px" alt="Chocolatey">
+</p>
+<p float="left">
     <img src="./icons/bootstrap.svg" height="40px" alt="Bootstrap">
     <img src="./icons/bulma.svg" height="40px" alt="Bulma">
 </p>
