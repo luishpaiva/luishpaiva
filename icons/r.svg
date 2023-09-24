@@ -1,14 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="724" height="561" viewBox="0 0 724 561">
-  <defs>
-    <linearGradient id="gradientFill-1" x1="0" x2="1" y1="0" y2="1" gradientUnits="objectBoundingBox" spreadMethod="pad">
-      <stop offset="0" stop-color="rgb(203,206,208)" stop-opacity="1"/>
-      <stop offset="1" stop-color="rgb(132,131,139)" stop-opacity="1"/>
-    </linearGradient>
-    <linearGradient id="gradientFill-2" x1="0" x2="1" y1="0" y2="1" gradientUnits="objectBoundingBox" spreadMethod="pad">
-      <stop offset="0" stop-color="rgb(39,109,195)" stop-opacity="1"/>
-      <stop offset="1" stop-color="rgb(22,92,170)" stop-opacity="1"/>
-    </linearGradient>
-  </defs>
-  <path d="M361.453,485.937 C162.329,485.937 0.906,377.828 0.906,244.469 C0.906,111.109 162.329,3.000 361.453,3.000 C560.578,3.000 722.000,111.109 722.000,244.469 C722.000,377.828 560.578,485.937 361.453,485.937 ZM416.641,97.406 C265.289,97.406 142.594,171.314 142.594,262.484 C142.594,353.654 265.289,427.562 416.641,427.562 C567.992,427.562 679.687,377.033 679.687,262.484 C679.687,147.971 567.992,97.406 416.641,97.406 Z" fill="url(#gradientFill-1)" fill-rule="evenodd"/>
-  <path d="M550.000,377.000 C550.000,377.000 571.822,383.585 584.500,390.000 C588.899,392.226 596.510,396.668 602.000,402.500 C607.378,408.212 610.000,414.000 610.000,414.000 L696.000,559.000 L557.000,559.062 L492.000,437.000 C492.000,437.000 478.690,414.131 470.500,407.500 C463.668,401.969 460.755,400.000 454.000,400.000 C449.298,400.000 420.974,400.000 420.974,400.000 L421.000,558.974 L298.000,559.026 L298.000,152.938 L545.000,152.938 C545.000,152.938 657.500,154.967 657.500,262.000 C657.500,369.033 550.000,377.000 550.000,377.000 ZM496.500,241.024 L422.037,240.976 L422.000,310.026 L496.500,310.002 C496.500,310.002 531.000,309.895 531.000,274.877 C531.000,239.155 496.500,241.024 496.500,241.024 Z" fill="url(#gradientFill-2)" fill-rule="evenodd"/>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 256" width="330" height="256">
+	<title>r-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(328.675,220.123,-190.263,284.09,.413,1.496)">
+			<stop offset="0" stop-color="#cbced0"/>
+			<stop offset="1" stop-color="#84838b"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(181.409,185.112,-161.78,158.544,135.829,69.897)">
+			<stop offset="0" stop-color="#276dc3"/>
+			<stop offset="1" stop-color="#165caa"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m164.8 221.7c-90.9 0-164.4-49.2-164.4-110.1 0-61 73.5-110.2 164.4-110.2 90.8 0 164.3 49.2 164.3 110.2 0 60.9-73.5 110.1-164.3 110.1zm25.1-177.3c-69 0-124.9 33.8-124.9 75.4 0 41.6 55.9 75.3 124.9 75.3 69 0 119.9-23 119.9-75.3 0-52.3-50.9-75.4-119.9-75.4z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m250.7 172c0 0 9.9 3 15.7 6 2 1 5.5 3 8 5.7 2.4 2.6 3.6 5.2 3.6 5.2l39.2 66.2h-63.3l-29.6-55.7c0 0-6.1-10.4-9.8-13.4-3.2-2.6-4.5-3.5-7.6-3.5-2.1 0-15 0-15 0v72.6h-56.1v-185.3h112.6c0 0 51.3 0.9 51.3 49.8 0 48.8-49 52.4-49 52.4zm-24.4-62h-33.9l-0.1 31.5h34c0 0 15.7-0.1 15.7-16.1 0-16.3-15.7-15.4-15.7-15.4z"/>
 </svg>

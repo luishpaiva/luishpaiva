@@ -1,36 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-
-    Licensed to the Apache Software Foundation (ASF) under one
-    or more contributor license agreements.  See the NOTICE file
-    distributed with this work for additional information
-    regarding copyright ownership.  The ASF licenses this file
-    to you under the Apache License, Version 2.0 (the
-    "License"); you may not use this file except in compliance
-    with the License.  You may obtain a copy of the License at
-
-      http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing,
-    software distributed under the License is distributed on an
-    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-    KIND, either express or implied.  See the License for the
-    specific language governing permissions and limitations
-    under the License.
-
--->
-<svg xmlns="http://www.w3.org/2000/svg" width="444px" height="512px" viewBox="0 0 444 512" version="1.1">
-  <title>Apache NetBeans Logo</title>
-  <description>Apache NetBeans Logo</description>
-  <g id="logo" stroke-width="0" fill="none" fill-rule="evenodd">
-    <path d="M222,0 L222,99 L86,178 L0,128 L222,0 Z" fill="#A1C535"/>
-    <path d="M444,128 L358,178 L222,99 L222,0 L444,128 L444,128 Z" fill="#ADD439"/>
-    <path d="M444,384 L358,334 L358,178 L444,128 L444,384 L444,384 Z" fill="#1B6AC6"/>
-    <path d="M222,512 L222,413 L358,334 L444,384 L222,512 L222,512 Z" fill="#2E90E8"/>
-    <path d="M0,384 L86,334 L222,413 L222,512 L0,384 L0,384 Z" fill="#EA205E"/>
-    <path d="M0,128 L86,178 L86,334 L0,384 L0,128 L0,128 Z" fill="#A5073E"/>
-    <path d="M86,178 L222,99 L358,178 L222,256 L86,178 Z" fill="#F1F6E2"/>
-    <path d="M222,256 L358,178 L358,334 L222,413 L222,256 Z" fill="#CEDBE6"/>
-    <path d="M86,178 L222,256 L222,413 L86,334 L86,178 Z" fill="#FFFFFF"/>
-  </g>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 256" width="222" height="256">
+	<title>netbeans-svg</title>
+	<style>
+		.s0 { fill: #a1c535 } 
+		.s1 { fill: #add439 } 
+		.s2 { fill: #1b6ac6 } 
+		.s3 { fill: #2e90e8 } 
+		.s4 { fill: #ea205e } 
+		.s5 { fill: #a5073e } 
+		.s6 { fill: #f1f6e2 } 
+		.s7 { fill: #cedbe6 } 
+		.s8 { fill: #ffffff } 
+	</style>
+	<g id="logo">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m111 0v49.5l-68 39.5-43-25z"/>
+		<path id="Layer" fill-rule="evenodd" class="s1" d="m222 64l-43 25-68-39.5v-49.5z"/>
+		<path id="Layer" fill-rule="evenodd" class="s2" d="m222 192l-43-25v-78l43-25z"/>
+		<path id="Layer" fill-rule="evenodd" class="s3" d="m111 256v-49.5l68-39.5 43 25z"/>
+		<path id="Layer" fill-rule="evenodd" class="s4" d="m0 192l43-25 68 39.5v49.5z"/>
+		<path id="Layer" fill-rule="evenodd" class="s5" d="m0 64l43 25v78l-43 25z"/>
+		<path id="Layer" fill-rule="evenodd" class="s6" d="m43 89l68-39.5 68 39.5-68 39z"/>
+		<path id="Layer" fill-rule="evenodd" class="s7" d="m111 128l68-39v78l-68 39.5z"/>
+		<path id="Layer" fill-rule="evenodd" class="s8" d="m43 89l68 39v78.5l-68-39.5z"/>
+	</g>
 </svg>
