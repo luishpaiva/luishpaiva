@@ -1,66 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 70 70" style="enable-background:new 0 0 70 70;" xml:space="preserve">
-<g>
-	<g>
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="24.9985" y1="27.0461" x2="66.6565" y2="27.0461">
-			<stop offset="0" style="stop-color:#21D789"/>
-			<stop offset="1" style="stop-color:#07C3F2"/>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>pycharm-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(152.349,0,0,160.897,91.423,98.911)">
+			<stop offset="0" stop-color="#21d789"/>
+			<stop offset="1" stop-color="#07c3f2"/>
 		</linearGradient>
-		<polygon style="fill:url(#SVGID_1_);" points="49.1,11 69.5,28.1 62.2,43 49.8,39.6 39.2,39.6   "/>
-		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-24.5594" y1="59.0806" x2="61.2196" y2="-4.2413">
-			<stop offset="1.075269e-002" style="stop-color:#FCF84A"/>
-			<stop offset="0.1116" style="stop-color:#A7EB62"/>
-			<stop offset="0.2056" style="stop-color:#5FE077"/>
-			<stop offset="0.2727" style="stop-color:#32DA84"/>
-			<stop offset="0.3065" style="stop-color:#21D789"/>
-			<stop offset="0.5768" style="stop-color:#21D789"/>
-			<stop offset="0.5968" style="stop-color:#21D789"/>
-			<stop offset="0.686" style="stop-color:#20D68C"/>
-			<stop offset="0.7627" style="stop-color:#1ED497"/>
-			<stop offset="0.8348" style="stop-color:#19D1A9"/>
-			<stop offset="0.904" style="stop-color:#13CCC2"/>
-			<stop offset="0.9707" style="stop-color:#0BC6E1"/>
-			<stop offset="1" style="stop-color:#07C3F2"/>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(313.706,-231.577,157.911,213.914,-89.817,216.066)">
+			<stop offset=".011" stop-color="#fcf84a"/>
+			<stop offset=".112" stop-color="#a7eb62"/>
+			<stop offset=".206" stop-color="#5fe077"/>
+			<stop offset=".273" stop-color="#32da84"/>
+			<stop offset=".306" stop-color="#21d789"/>
+			<stop offset=".577" stop-color="#21d789"/>
+			<stop offset=".597" stop-color="#21d789"/>
+			<stop offset=".686" stop-color="#20d68c"/>
+			<stop offset=".763" stop-color="#1ed497"/>
+			<stop offset=".835" stop-color="#19d1a9"/>
+			<stop offset=".904" stop-color="#13ccc2"/>
+			<stop offset=".971" stop-color="#0bc6e1"/>
+			<stop offset="1" stop-color="#07c3f2"/>
 		</linearGradient>
-		<polygon style="fill:url(#SVGID_2_);" points="28.5,22.1 24.5,43 24.1,50.2 14.2,54.5 0,56 4.3,10.7 29.9,0 45.7,10.4   "/>
-		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="9.3301" y1="77.6536" x2="23.6369" y2="32.7598">
-			<stop offset="0" style="stop-color:#21D789"/>
-			<stop offset="0.1638" style="stop-color:#24D788"/>
-			<stop offset="0.3047" style="stop-color:#2FD886"/>
-			<stop offset="0.4371" style="stop-color:#41DA82"/>
-			<stop offset="0.5644" style="stop-color:#5ADC7D"/>
-			<stop offset="0.6881" style="stop-color:#7AE077"/>
-			<stop offset="0.809" style="stop-color:#A1E36E"/>
-			<stop offset="0.9254" style="stop-color:#CFE865"/>
-			<stop offset="1" style="stop-color:#F1EB5E"/>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(52.322,-164.183,108.064,34.438,34.122,283.99)">
+			<stop offset="0" stop-color="#21d789"/>
+			<stop offset=".164" stop-color="#24d788"/>
+			<stop offset=".305" stop-color="#2fd886"/>
+			<stop offset=".437" stop-color="#41da82"/>
+			<stop offset=".564" stop-color="#5adc7d"/>
+			<stop offset=".688" stop-color="#7ae077"/>
+			<stop offset=".809" stop-color="#a1e36e"/>
+			<stop offset=".925" stop-color="#cfe865"/>
+			<stop offset="1" stop-color="#f1eb5e"/>
 		</linearGradient>
-		<polygon style="fill:url(#SVGID_3_);" points="28.5,22.1 30.4,62.5 24,70 0,56 19.7,26.6   "/>
-		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="28.2753" y1="38.6231" x2="59.4088" y2="-3.2358">
-			<stop offset="0" style="stop-color:#21D789"/>
-			<stop offset="6.081050e-002" style="stop-color:#24D788"/>
-			<stop offset="0.1131" style="stop-color:#2FD886"/>
-			<stop offset="0.1622" style="stop-color:#41DA82"/>
-			<stop offset="0.2094" style="stop-color:#5ADD7D"/>
-			<stop offset="0.2548" style="stop-color:#79E077"/>
-			<stop offset="0.2581" style="stop-color:#7CE076"/>
-			<stop offset="0.4986" style="stop-color:#8CE173"/>
-			<stop offset="0.9247" style="stop-color:#B2E56B"/>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(113.86,-153.084,106.008,78.846,103.407,141.25)">
+			<stop offset="0" stop-color="#21d789"/>
+			<stop offset=".061" stop-color="#24d788"/>
+			<stop offset=".113" stop-color="#2fd886"/>
+			<stop offset=".162" stop-color="#41da82"/>
+			<stop offset=".209" stop-color="#5add7d"/>
+			<stop offset=".255" stop-color="#79e077"/>
+			<stop offset=".258" stop-color="#7ce076"/>
+			<stop offset=".499" stop-color="#8ce173"/>
+			<stop offset=".925" stop-color="#b2e56b"/>
 		</linearGradient>
-		<polygon style="fill:url(#SVGID_4_);" points="54.9,19.1 30.6,19.1 52.1,0   "/>
-		<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="75.8893" y1="43.9496" x2="13.1579" y2="43.3687">
-			<stop offset="0.3871" style="stop-color:#FCF84A"/>
-			<stop offset="0.5358" style="stop-color:#ECF451"/>
-			<stop offset="0.8259" style="stop-color:#C2E964"/>
-			<stop offset="0.9247" style="stop-color:#B2E56B"/>
+		<linearGradient id="g5" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-229.418,-2.124,2.235,-241.385,277.538,160.73)">
+			<stop offset=".387" stop-color="#fcf84a"/>
+			<stop offset=".536" stop-color="#ecf451"/>
+			<stop offset=".826" stop-color="#c2e964"/>
+			<stop offset=".925" stop-color="#b2e56b"/>
 		</linearGradient>
-		<polygon style="fill:url(#SVGID_5_);" points="70,62.6 48.6,69.9 20.2,61.9 28.5,22.1 31.8,19.1 49.1,17.5 47.5,34.9 61.3,29.6       "/>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: url(#g5) } 
+		.s5 { fill: #000000 } 
+		.s6 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m179.6 40.2l74.6 62.6-26.7 54.5-45.4-12.5h-38.7z"/>
+			<path id="Layer" class="s1" d="m104.2 80.8l-14.6 76.5-1.5 26.3-36.2 15.7-51.9 5.5 15.7-165.7 93.6-39.1 57.8 38z"/>
+			<path id="Layer" class="s2" d="m104.2 80.8l7 147.8-23.4 27.4-87.8-51.2 72-107.5z"/>
+			<path id="Layer" class="s3" d="m200.8 69.9h-88.9l78.6-69.9z"/>
+			<path id="Layer" class="s4" d="m256 228.9l-78.3 26.7-103.8-29.2 30.3-145.6 12.1-10.9 63.3-5.9-5.9 63.6 50.5-19.3z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s5" d="m49 49h158v158h-158z"/>
+			<path id="Layer" class="s6" d="m64 177.4h59.2v9.8h-59.2z"/>
+			<path id="Layer" fill-rule="evenodd" class="s6" d="m90 69.9c15.7 0 25.2 9.1 25.2 22.6v0.4c0 15-11.7 23-26.3 23h-11v19.4h-14.3v-65.4zm-0.7 32.9c7.3 0 11.3-4.4 11.3-9.9v-0.4c0-6.6-4.3-9.8-11.7-9.8h-10.9v20.1z"/>
+			<path id="Layer" class="s6" d="m121.1 102.8c0-18.7 13.8-34 34-34 12.4 0 19.7 4 25.9 10.2l-9.1 10.6c-5.1-4.8-10.3-7.3-16.8-7.3-11 0-19.1 9.1-19.1 20.5v-0.4c0 11.3 7.7 20.5 19.1 20.5 7.3 0 12-2.9 17.2-7.7l9.1 9.1c-6.6 7.4-14.3 11.7-26.7 11.7-19.4 0.4-33.6-14.6-33.6-33.2z"/>
+		</g>
 	</g>
-	<g>
-		<rect x="13.4" y="13.4" style="fill:#000000;" width="43.2" height="43.2"/>
-		<rect x="17.5" y="48.5" style="fill:#FFFFFF;" width="16.2" height="2.7"/>
-		<path style="fill:#FFFFFF;" d="M17.3,19.1h7.3c4.3,0,6.9,2.5,6.9,6.2v0.1c0,4.1-3.2,6.3-7.2,6.3h-3V37h-3.9V19.1z M24.4,28.1    c2,0,3.1-1.2,3.1-2.7v-0.1c0-1.8-1.2-2.7-3.2-2.7h-3v5.5H24.4z"/>
-		<path style="fill:#FFFFFF;" d="M33.1,28.1L33.1,28.1c0-5.1,3.8-9.3,9.3-9.3c3.4,0,5.4,1.1,7.1,2.8l-2.5,2.9c-1.4-1.3-2.8-2-4.6-2    c-3,0-5.2,2.5-5.2,5.6V28c0,3.1,2.1,5.6,5.2,5.6c2,0,3.3-0.8,4.7-2.1l2.5,2.5c-1.8,2-3.9,3.2-7.3,3.2C37,37.3,33.1,33.2,33.1,28.1    "/>
-	</g>
-</g>
 </svg>

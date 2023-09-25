@@ -1,49 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 30.31081 32.499828"
-   height="122.83399"
-   width="114.56054">
-  <defs
-     id="defs2" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     transform="translate(-77.942529,-177.00005)"
-     id="layer1">
-    <g
-       id="g4550">
-      <path
-         style="fill:#e55b2d;fill-opacity:1"
-         d="m 360.04883,687.87305 v 18.89843 l 32.73047,18.89844 v -18.89844 z m -65.46289,18.89843 v 18.89844 l 16.36523,9.44727 V 716.2207 Z m 49.0957,9.44922 -16.36523,9.44922 v 56.69141 l 16.36523,9.44922 v -37.79493 l 16.36719,9.44922 v -18.89843 l -16.36719,-9.44922 z"
-         transform="scale(0.26458333)"
-         id="path4508" />
-      <path
-         style="fill:#ed8e24;fill-opacity:1"
-         d="m 360.04883,687.87305 -49.09766,28.34765 v 18.89649 l 32.73047,-18.89649 v 18.89649 l 16.36719,-9.44727 z m 49.09765,9.44922 -16.36718,9.44921 v 18.89844 l 16.36718,-9.44922 z m -32.73242,37.79492 -16.36523,9.44922 v 18.89843 l 16.36523,-9.44922 z m -16.36523,28.34765 -16.36719,-9.44922 v 37.79493 l 16.36719,-9.44922 z"
-         transform="scale(0.26458333)"
-         id="path4491" />
-      <path
-         style="fill:#f8bf3c;fill-opacity:1"
-         d="m 360.04883,668.97656 -65.46289,37.79492 16.36523,9.44922 49.09766,-28.34765 32.73047,18.89843 16.36718,-9.44921 z m 0,56.69336 -16.36719,9.44727 16.36719,9.44922 16.36523,-9.44922 z"
-         transform="scale(0.26458333)"
-         id="path4506" />
-    </g>
-  </g>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 239 256" width="239" height="256">
+	<title>tensorflow-svg</title>
+	<style>
+		.s0 { fill: #e55b2d } 
+		.s1 { fill: #ed8e24 } 
+		.s2 { fill: #f8bf3c } 
+	</style>
+	<g id="layer1">
+		<g id="g4550">
+			<path id="path4508" class="s0" d="m136.4 39v39.4l68.2 39.4v-39.4zm-136.3 39.4v39.4l34.1 19.7v-39.4zm102.2 19.7l-34.1 19.7v118.1l34.1 19.7v-78.8l34.1 19.7v-39.4l-34.1-19.6z"/>
+			<path id="path4491" class="s1" d="m136.4 39l-102.2 59.1v39.4l68.2-39.4v39.4l34-19.7zm102.3 19.7l-34.1 19.7v39.4l34.1-19.7zm-68.2 78.7l-34.1 19.7v39.4l34.1-19.7zm-34.1 59.1l-34-19.7v78.8l34-19.7z"/>
+			<path id="path4506" class="s2" d="m136.4-0.4l-136.3 78.8 34.1 19.7 102.2-59.1 68.2 39.4 34.1-19.7zm0 118.2l-34.1 19.6 34.1 19.7 34-19.7z"/>
+		</g>
+	</g>
 </svg>

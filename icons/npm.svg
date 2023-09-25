@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#cb3837" d="M2 38.5h124v43.71H64v7.29H36.44v-7.29H2zm6.89 36.43h13.78V53.07h6.89v21.86h6.89V45.79H8.89zm34.44-29.14v36.42h13.78v-7.28h13.78V45.79zm13.78 7.29H64v14.56h-6.89zm20.67-7.29v29.14h13.78V53.07h6.89v21.86h6.89V53.07h6.89v21.86h6.89V45.79z"/></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 256" width="620" height="256">
+	<title>npm-svg</title>
+	<style>
+		.s0 { fill: #ffffff } 
+		.s1 { fill: #cb3837 } 
+		.s2 { fill: none;stroke: #cb3837;stroke-miterlimit:100 } 
+	</style>
+	<path id="Shape 2" class="s0" d="m0 0h620v256h-620z"/>
+	<path id="Layer" fill-rule="evenodd" class="s1" d="m58 29.9h504v168.1h-252v28h-112v-28h-140zm28 140h56v-84h28v84h28v-112h-112zm140-112.1v140.1h56v-28h56v-112.1zm56 28h28v56.1h-28zm84-28v112h56v-84h28v84h28v-84h28v84h28v-112z"/>
+	<path id="Layer" class="s0" d="m86 170h56v-84.1h28v84.1h28v-112.1h-112z"/>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m338 57.9v112.1h-56v28h-56v-140.1zm-28 28h-28v56h28z"/>
+	<path id="Layer" class="s0" d="m366 57.9v112.1h56v-84.1h28v84.1h28v-84.1h28v84.1h28v-112.1z"/>
+	<path id="Shape 1" class="s2" d="m0 0h620v256h-620z"/>
+</svg>
