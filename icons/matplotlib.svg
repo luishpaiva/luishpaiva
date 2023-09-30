@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>matplotlib-svg</title>
+	<style>
+		.s0 { fill: #ffffff;stroke: #777777;stroke-width: 2 } 
+		.s1 { fill: #ff6600;stroke: #777777;stroke-width: 2 } 
+		.s2 { fill: #ffcc00;stroke: #777777;stroke-width: 2 } 
+		.s3 { fill: #77ff77;stroke: #777777;stroke-width: 2 } 
+		.s4 { fill: #ccff33;stroke: #777777;stroke-width: 2 } 
+		.s5 { fill: #0044ff;stroke: #777777;stroke-width: 2 } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m130 2c69.2 1.1 124.5 57.8 124 127-0.6 69.2-56.8 125-126 125-69.2 0-125.4-55.8-126-125-0.5-69.2 54.8-125.9 124-127zm-4 28c-53.7 1.1-96.5 45.2-96 99 0.6 53.7 44.3 97 98 97 53.7 0 97.4-43.3 98-97 0.5-53.8-42.3-97.9-96-99zm4 28c38.3 1.1 68.5 32.7 68 71-0.6 38.2-31.7 69-70 69-38.3 0-69.4-30.8-70-69-0.5-38.3 29.7-69.9 68-71zm-4 28c-22.8 1.1-40.5 20.2-40 43 0.6 22.8 19.2 41 42 41 22.8 0 41.4-18.2 42-41 0.5-22.8-17.2-41.9-40-43zm4 28c7.3 1 12.5 7.5 12 14.9-0.6 7.3-6.7 13-14 13-7.3 0-13.4-5.7-14-13-0.5-7.4 4.7-13.9 12-14.9zm88 104l-180-180m180 0l-180 180m216-90h-252m126-126v252"/>
+	<path id="Layer" class="s1" d="m100 16l-40 20 136 184 20-20-88-72z"/>
+	<path id="Layer" class="s2" d="m34 100v56l94-28z"/>
+	<path id="Layer" class="s3" d="m128 128l12 70h-24z"/>
+	<path id="Layer" class="s4" d="m128 128l26-80 18 10z"/>
+	<path id="Layer" fill-rule="evenodd" class="s5" d="m158 124l-2-8-28 12zm-30 4l-52 26 6 8z"/>
+</svg>

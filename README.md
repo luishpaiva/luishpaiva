@@ -52,12 +52,14 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/scikitlearn.svg" height="40px" alt="Scikit Learn" />
     <img src="./icons/numpy.svg" height="40px" alt="NumPy" />
     <img src="./icons/pandas.svg" height="40px" alt="Pandas" />
+    <img src="./icons/matplotlib.svg" height="40px" alt="Matplotlib" />
     <img src="./icons/tpot.svg" height="40px" alt="TPOT" />
     <img src="./icons/h2o.svg" height="40px" alt="H2O" />
     <img src="./icons/lime.svg" height="40px" alt="Local Interpretable Model-Agnostic Explanations - LIME" />
     <img src="./icons/interpretml.svg" height="40px" alt="InterpretML" />
     <img src="./icons/eli5.svg" height="40px" alt="Eli5" />
     <img src="./icons/shap.svg" height="40px" alt="Shap" />
+    <img src="./icons/nltk.svg" height="40px" alt="Natural Language Toolkit - NLTK" />
     <img src="./icons/hadoop.svg" height="40px" alt="Apache hadoop" />
     <img src="./icons/spark.svg" height="40px" alt="Apache Spark" />
     <img src="./icons/maven.svg" height="40px" alt="Apache Maven" />
