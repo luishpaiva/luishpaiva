@@ -1,0 +1,21 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 326 256" width="326" height="256">
+	<title>interpretml-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0.81-33.82h324.38v324.05h-324.38z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #001c66 } 
+		.s1 { fill: #0054e8 } 
+		.s2 { fill: #1fbaff } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m46.4 3.1c-25.7 12.1-16 50.4 12.3 48.8 23-1.4 32.5-29.1 15.4-44.9-6.7-6.2-19.1-7.9-27.7-3.9z"/>
+			<path id="Layer" class="s0" d="m1.3 74.7c-0.3 0.3-0.5 32.8-0.5 32.8h41.5v147.6l36.3-63.4v-117.5c-21.1 0-77 0.3-77.3 0.5z"/>
+			<path id="Layer" class="s1" d="m78.6 255.1h-36.3l36.3-63.4 66.7-117.5h17.7 17.8v59 59l65.9-118h37v148h-36.9c0.1-32.8 0.2-78.3-0.1-78l-65.9 110.9h-35.5l-0.1-112.4z"/>
+			<path id="Layer" class="s2" d="m246.7 255.1l78.5 0.4v-33.3h-41.5-36.9c0 18.5-0.1 32.9-0.1 32.9z"/>
+		</g>
+	</g>
+</svg>
