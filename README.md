@@ -50,6 +50,7 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/tensorflow.svg" height="40px" alt="Tensorflow" />
     <img src="./icons/keras.svg" height="40px" alt="Keras" />
     <img src="./icons/scikitlearn.svg" height="40px" alt="Scikit Learn" />
+    <img src="./icons/pygad.svg" height="40px" alt="PyGAD" />
     <img src="./icons/numpy.svg" height="40px" alt="NumPy" />
     <img src="./icons/pandas.svg" height="40px" alt="Pandas" />
     <img src="./icons/matplotlib.svg" height="40px" alt="Matplotlib" />
