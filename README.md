@@ -49,6 +49,7 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/pytorch.svg" height="40px" alt="PyTorch" />
     <img src="./icons/tensorflow.svg" height="40px" alt="Tensorflow" />
     <img src="./icons/keras.svg" height="40px" alt="Keras" />
+    <img src="./icons/scipy.svg" height="40px" alt="SciPy" />
     <img src="./icons/scikitlearn.svg" height="40px" alt="Scikit Learn" />
     <img src="./icons/pygad.svg" height="40px" alt="PyGAD" />
     <img src="./icons/numpy.svg" height="40px" alt="NumPy" />
