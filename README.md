@@ -37,6 +37,7 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/cobol.svg" height="40px" alt="COBOL" />
     <img src="./icons/kotlin.svg" height="40px" alt="Kotlin" />
     <img src="./icons/dart.svg" height="40px" alt="Dart" />
+    <img src="./icons/ruby.svg" height="40px" alt="Ruby" />
     <img src="./icons/html5.svg" height="40px" alt="HTML5" />
     <img src="./icons/css3.svg" height="40px" alt="CSS3" />
     <img src="./icons/javascript.svg" height="40px" alt="JavaScript/ECMAScript" />
