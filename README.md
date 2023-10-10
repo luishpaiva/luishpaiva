@@ -58,6 +58,7 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/pandas.svg" height="40px" alt="Pandas" />
     <img src="./icons/matplotlib.svg" height="40px" alt="Matplotlib" />
     <img src="./icons/seaborn.svg" height="40px" alt="Seaborn" />
+    <img src="./icons/graphviz.svg" height="40px" alt="Graphviz" />
     <img src="./icons/tpot.svg" height="40px" alt="TPOT" />
     <img src="./icons/h2o.svg" height="40px" alt="H2O" />
     <img src="./icons/lime.svg" height="40px" alt="Local Interpretable Model-Agnostic Explanations - LIME" />
