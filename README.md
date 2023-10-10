@@ -29,9 +29,10 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
 <p float="left">
     <img src="./icons/python.svg" height="40px" alt="Python" />
     <img src="./icons/r.svg" height="40px" alt="R" />
-    <img src="./icons/java.svg" height="40px" alt="Java" />
+    <img src="./icons/c.svg" height="40px" alt="C" />
     <img src="./icons/cplusplus.svg" height="40px" alt="C++" />
     <img src="./icons/csharp.svg" height="40px" alt="C#" />
+    <img src="./icons/java.svg" height="40px" alt="Java" />
     <img src="./icons/pascal.svg" height="40px" alt="Pascal" />
     <img src="./icons/delphi.svg" height="40px" alt="Delphi" />
     <img src="./icons/cobol.svg" height="40px" alt="COBOL" />
