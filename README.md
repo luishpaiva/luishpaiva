@@ -16,7 +16,7 @@ Um pouquinho sobre mim:
 <div>
     <a href="https://github.com/luishpaiva">
     <img height="220em" src="https://github-readme-stats.vercel.app/api?username=luishpaiva&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishpaiva&layout=compact&langs_count=16"/></a>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishpaiva&layout=compact&langs_count=16&hide=jupyter%20notebook"/></a>
 </div>
 
 <hr>
