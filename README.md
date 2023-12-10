@@ -60,6 +60,7 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/scipy.svg" height="40px" alt="SciPy" />
     <img src="./icons/scikitlearn.svg" height="40px" alt="Scikit Learn" />
     <img src="./icons/scikitfuzzy.svg" height="40px" alt="Scikit Fuzzy" />
+    <img src="./icons/opencv.svg" height="40px" alt="OpenCV" />
     <img src="./icons/pygad.svg" height="40px" alt="PyGAD" />
     <img src="./icons/nltk.svg" height="40px" alt="Natural Language Toolkit - NLTK" />
     <img src="./icons/bs4.svg" height="40px" alt="Beaultiful Soup" />
