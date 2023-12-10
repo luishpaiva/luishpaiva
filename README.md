@@ -74,7 +74,7 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/ipython.svg" height="40px" alt="IPython" />
 </p>
 <h6>Desenvolvimento</h6>
-<p>
+<p  float="left">
     <img src="./icons/hadoop.svg" height="40px" alt="Apache hadoop" />
     <img src="./icons/spark.svg" height="40px" alt="Apache Spark" />
     <img src="./icons/maven.svg" height="40px" alt="Apache Maven" />
