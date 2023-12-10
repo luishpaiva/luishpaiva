@@ -47,16 +47,20 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
 </p>
 
 <h5>&#x27A1; Frameworks / Bibliotecas / Gerenciadores de pacotes / etc.</h5>
+<h6>Ciência de Dados / Inteligência Artificial</h6>
 <p float="left">
+    <img src="./icons/numpy.svg" height="40px" alt="NumPy" />
+    <img src="./icons/pandas.svg" height="40px" alt="Pandas" />
     <img src="./icons/pytorch.svg" height="40px" alt="PyTorch" />
     <img src="./icons/tensorflow.svg" height="40px" alt="Tensorflow" />
     <img src="./icons/keras.svg" height="40px" alt="Keras" />
     <img src="./icons/scipy.svg" height="40px" alt="SciPy" />
     <img src="./icons/scikitlearn.svg" height="40px" alt="Scikit Learn" />
-    <img src="./icons/pygad.svg" height="40px" alt="PyGAD" />
     <img src="./icons/scikitfuzzy.svg" height="40px" alt="Scikit Fuzzy" />
-    <img src="./icons/numpy.svg" height="40px" alt="NumPy" />
-    <img src="./icons/pandas.svg" height="40px" alt="Pandas" />
+    <img src="./icons/pygad.svg" height="40px" alt="PyGAD" />
+    <img src="./icons/bs4.svg" height="40px" alt="Beaultiful Soup" />
+    <img src="./icons/spacy.svg" height="40px" alt="Spacy" />
+    <img src="./icons/gym.svg" height="40px" alt="Gym" />
     <img src="./icons/matplotlib.svg" height="40px" alt="Matplotlib" />
     <img src="./icons/seaborn.svg" height="40px" alt="Seaborn" />
     <img src="./icons/graphviz.svg" height="40px" alt="Graphviz" />
@@ -67,6 +71,10 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/eli5.svg" height="40px" alt="Eli5" />
     <img src="./icons/shap.svg" height="40px" alt="Shap" />
     <img src="./icons/nltk.svg" height="40px" alt="Natural Language Toolkit - NLTK" />
+    <img src="./icons/ipython.svg" height="40px" alt="IPython" />
+</p>
+<h6>Desenvolvimento</h6>
+<p>
     <img src="./icons/hadoop.svg" height="40px" alt="Apache hadoop" />
     <img src="./icons/spark.svg" height="40px" alt="Apache Spark" />
     <img src="./icons/maven.svg" height="40px" alt="Apache Maven" />
@@ -131,7 +139,9 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/vscode.svg" height="40px" alt="Visual Studio Code" />
     <img src="./icons/visualstudio.svg" height="40px" alt="Visual Studio" />
     <img src="./icons/rstudio.svg" height="40px" alt="RStudio" />
+    <img src="./icons/googlecolab.svg" height="40px" alt="Google Colab" />
     <img src="./icons/weka.svg" height="40px" alt="Weka 3" />
+    <img src="./icons/orange.svg" height="40px" alt="Orange Data Mining" />
     <img src="./icons/eclipse.svg" height="40px" alt="Eclipse" />
     <img src="./icons/netbeans.svg" height="40px" alt="Apache NetBeans" />
     <img src="./icons/devcplusplus.svg" height="40px" alt="Dev C++" />
