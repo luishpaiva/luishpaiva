@@ -66,6 +66,7 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/bs4.svg" height="40px" alt="Beaultiful Soup" />
     <img src="./icons/spacy.svg" height="40px" alt="Spacy" />
     <img src="./icons/gym.svg" height="40px" alt="Gym" />
+    <img src="./icons/pade.svg" height="40px" alt="PADE" />
     <img src="./icons/tpot.svg" height="40px" alt="TPOT" />
     <img src="./icons/h2o.svg" height="40px" alt="H2O" />
     <img src="./icons/lime.svg" height="40px" alt="Local Interpretable Model-Agnostic Explanations - LIME" />
@@ -76,9 +77,10 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
 </p>
 <h6>&#x25AA; Desenvolvimento</h6>
 <p  float="left">
-    <img src="./icons/hadoop.svg" height="40px" alt="Apache hadoop" />
+    <img src="./icons/hadoop.svg" height="40px" alt="Apache Hadoop" />
     <img src="./icons/spark.svg" height="40px" alt="Apache Spark" />
     <img src="./icons/maven.svg" height="40px" alt="Apache Maven" />
+    <img src="./icons/flask.svg" height="40px" alt="Flask" />
     <img src="./icons/gradle.svg" height="40px" alt="Gradle" />
     <img src="./icons/flutter.svg" height="40px" alt="Flutter" />
     <img src="./icons/nodejs.svg" height="40px" alt="Node.js" />
