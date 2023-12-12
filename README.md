@@ -49,6 +49,8 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
 <h5>&#x27A1; Frameworks / Bibliotecas / Gerenciadores de pacotes / etc.</h5>
 <h6>&#x25AA; Ciência de Dados / Inteligência Artificial</h6>
 <p float="left">
+    <img src="./icons/anaconda.svg" height="40px" alt="Anaconda" />
+    <img src="./icons/ipython.svg" height="40px" alt="IPython" />
     <img src="./icons/numpy.svg" height="40px" alt="NumPy" />
     <img src="./icons/pandas.svg" height="40px" alt="Pandas" />
     <img src="./icons/matplotlib.svg" height="40px" alt="Matplotlib" />
@@ -73,7 +75,6 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
     <img src="./icons/interpretml.svg" height="40px" alt="InterpretML" />
     <img src="./icons/eli5.svg" height="40px" alt="Eli5" />
     <img src="./icons/shap.svg" height="40px" alt="Shap" />
-    <img src="./icons/ipython.svg" height="40px" alt="IPython" />
 </p>
 <h6>&#x25AA; Desenvolvimento</h6>
 <p  float="left">
@@ -141,6 +142,8 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
 <p float="left">
     <img src="./icons/vscode.svg" height="40px" alt="Visual Studio Code" />
     <img src="./icons/visualstudio.svg" height="40px" alt="Visual Studio" />
+    <img src="./icons/jupyter.svg" height="40px" alt="Jupyter Lab/Notebook" />
+    <img src="./icons/spyder.svg" height="40px" alt="Spyder" />
     <img src="./icons/rstudio.svg" height="40px" alt="RStudio" />
     <img src="./icons/googlecolab.svg" height="40px" alt="Google Colab" />
     <img src="./icons/weka.svg" height="40px" alt="Weka 3" />
