@@ -3,7 +3,8 @@
 Um pouquinho sobre mim:
 
     🎓 Graduações: Gestão da Informação e Análise e Desenvolvimento de Sistemas;
-    🔬 Meta: Iniciar especialização em Inteligência Artificial ou alguma área correlata à Ciência de Dados;
+    ✍🏻 Especialização: Inteligência Artificial Aplicada (in course);
+    🔬 Meta: Terminar minha especialização;
     🔭 Objetivo: Mestrado em uma das minhas áreas de interesse;
     🤖 Áreas de interesse: Ciência de Dados, Inteligência Artificial, Machine Learning, Desenvolvimento de Software;
     📑 Procurando sempre se atualizar com relação ao já aprendido;
