@@ -4,7 +4,7 @@ Um pouquinho sobre mim:
 
     🎓 Graduações: Gestão da Informação e Análise e Desenvolvimento de Sistemas;
     ✍🏻 Especialização: Inteligência Artificial Aplicada (quase terminando), MBA em Ciências de Dados (no início);
-    🔬 Meta: Terminar minha especialização;
+    🔬 Meta: Terminar minhas especializações;
     🔭 Objetivo: Mestrado em uma das minhas áreas de interesse;
     🤖 Áreas de interesse: Ciência de Dados, Inteligência Artificial, Machine Learning, Desenvolvimento de Software;
     📑 Procurando sempre se atualizar com relação ao já aprendido;
@@ -67,6 +67,6 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
 
 ### &#x1F468;&#x200D;&#x1F4BB; Ferramentas mais utilizadas
 
-![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blue) ![IDE](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue) ![DataBase](https://img.shields.io/badge/DataBase-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue) ![GitLab&GitHub](https://img.shields.io/badge/Version_Control-GitLab&GitHub-informational?style=flat&logo=git&logoColor=white&color=blue)
+![OS](https://img.shields.io/badge/OS-Arch&Windows-informational?style=flat&logo=arch&windows%logoColor=white&color=blue) ![IDE](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue) ![DataBase](https://img.shields.io/badge/DataBase-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue) ![GitLab&GitHub](https://img.shields.io/badge/Version_Control-GitLab&GitHub-informational?style=flat&logo=git&logoColor=white&color=blue)
 
 ---
