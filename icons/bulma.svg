@@ -1,7 +1,6 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 177 256" width="177" height="256">
-	<title>bulma-svg</title>
-	<style>
-		.s0 { fill: #00d1b2 } 
-	</style>
-	<path id="Layer" class="s0" d="m80.4 0l80 80-48 48 64 63.8-95.6 64.2-80-79.8 15.4-112z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="40px" viewBox="0 0 28 40" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,81.960785%,69.803923%);fill-opacity:1;" d="M 12.71875 0 L 25.375 12.5 L 17.78125 20 L 27.90625 29.96875 L 12.78125 40 L 0.125 27.53125 L 2.5625 10.03125 Z M 12.71875 0 "/>
+</g>
 </svg>

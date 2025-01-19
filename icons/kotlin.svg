@@ -1,36 +1,31 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
-	<title>kotlin-svg</title>
-	<defs>
-		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(120.949,-120.949,120.548,120.547,68.093,315.794)">
-			<stop offset=".097" stop-color="#0095d5"/>
-			<stop offset=".301" stop-color="#238ad9"/>
-			<stop offset=".621" stop-color="#557bde"/>
-			<stop offset=".864" stop-color="#7472e2"/>
-			<stop offset="1" stop-color="#806ee3"/>
-		</linearGradient>
-		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(70.247,-70.247,36.47,36.47,17.959,51.452)">
-			<stop offset=".118" stop-color="#0095d5"/>
-			<stop offset=".418" stop-color="#3c83dc"/>
-			<stop offset=".696" stop-color="#6d74e1"/>
-			<stop offset=".833" stop-color="#806ee3"/>
-		</linearGradient>
-		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(238.222,-238.222,59.357,59.357,-43.101,235.366)">
-			<stop offset=".107" stop-color="#c757bc"/>
-			<stop offset=".214" stop-color="#d0609a"/>
-			<stop offset=".425" stop-color="#e1725c"/>
-			<stop offset=".605" stop-color="#ee7e2f"/>
-			<stop offset=".743" stop-color="#f58613"/>
-			<stop offset=".823" stop-color="#f88909"/>
-		</linearGradient>
-	</defs>
-	<style>
-		.s0 { fill: url(#g1) } 
-		.s1 { fill: url(#g2) } 
-		.s2 { fill: url(#g3) } 
-	</style>
-	<g id="Layer">
-		<path id="XMLID_2_" class="s0" d="m0 256l128.4-128.4 127.6 128.4z"/>
-		<path id="Layer" class="s1" d="m0 0h128.4l-128.4 138.7z"/>
-		<path id="Layer" class="s2" d="m128.4 0l-128.4 135.3v120.7l128.4-128.4 127.6-127.6z"/>
-	</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="40px" viewBox="0 0 40 40" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0" gradientTransform="matrix(18.898281,-18.898281,18.835624,18.835468,10.639532,49.342813)">
+<stop offset="0.097" style="stop-color:rgb(0%,58.431373%,83.529412%);stop-opacity:1;"/>
+<stop offset="0.301" style="stop-color:rgb(13.72549%,54.117647%,85.098039%);stop-opacity:1;"/>
+<stop offset="0.621" style="stop-color:rgb(33.333333%,48.235294%,87.058824%);stop-opacity:1;"/>
+<stop offset="0.864" style="stop-color:rgb(45.490196%,44.705882%,88.627451%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(50.196078%,43.137255%,89.019608%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0" gradientTransform="matrix(10.976094,-10.976094,5.698438,5.698438,2.806094,8.039375)">
+<stop offset="0.118" style="stop-color:rgb(0%,58.431373%,83.529412%);stop-opacity:1;"/>
+<stop offset="0.418" style="stop-color:rgb(23.529412%,51.372549%,86.27451%);stop-opacity:1;"/>
+<stop offset="0.696" style="stop-color:rgb(42.745098%,45.490196%,88.235294%);stop-opacity:1;"/>
+<stop offset="0.833" style="stop-color:rgb(50.196078%,43.137255%,89.019608%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1" y2="0" gradientTransform="matrix(37.222188,-37.222188,9.274531,9.274531,-6.734532,36.775937)">
+<stop offset="0.107" style="stop-color:rgb(78.039216%,34.117647%,73.72549%);stop-opacity:1;"/>
+<stop offset="0.214" style="stop-color:rgb(81.568627%,37.647059%,60.392157%);stop-opacity:1;"/>
+<stop offset="0.425" style="stop-color:rgb(88.235294%,44.705882%,36.078431%);stop-opacity:1;"/>
+<stop offset="0.605" style="stop-color:rgb(93.333333%,49.411765%,18.431373%);stop-opacity:1;"/>
+<stop offset="0.743" style="stop-color:rgb(96.078431%,52.54902%,7.45098%);stop-opacity:1;"/>
+<stop offset="0.823" style="stop-color:rgb(97.254902%,53.72549%,3.529412%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 0 40 L 20.0625 19.9375 L 40 40 Z M 0 40 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 0 0 L 20.0625 0 L 0 21.671875 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear2);" d="M 20.0625 0 L 0 21.140625 L 0 40 L 40 0 Z M 20.0625 0 "/>
+</g>
 </svg>

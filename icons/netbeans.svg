@@ -1,25 +1,14 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 256" width="222" height="256">
-	<title>netbeans-svg</title>
-	<style>
-		.s0 { fill: #a1c535 } 
-		.s1 { fill: #add439 } 
-		.s2 { fill: #1b6ac6 } 
-		.s3 { fill: #2e90e8 } 
-		.s4 { fill: #ea205e } 
-		.s5 { fill: #a5073e } 
-		.s6 { fill: #f1f6e2 } 
-		.s7 { fill: #cedbe6 } 
-		.s8 { fill: #ffffff } 
-	</style>
-	<g id="logo">
-		<path id="Layer" fill-rule="evenodd" class="s0" d="m111 0v49.5l-68 39.5-43-25z"/>
-		<path id="Layer" fill-rule="evenodd" class="s1" d="m222 64l-43 25-68-39.5v-49.5z"/>
-		<path id="Layer" fill-rule="evenodd" class="s2" d="m222 192l-43-25v-78l43-25z"/>
-		<path id="Layer" fill-rule="evenodd" class="s3" d="m111 256v-49.5l68-39.5 43 25z"/>
-		<path id="Layer" fill-rule="evenodd" class="s4" d="m0 192l43-25 68 39.5v49.5z"/>
-		<path id="Layer" fill-rule="evenodd" class="s5" d="m0 64l43 25v78l-43 25z"/>
-		<path id="Layer" fill-rule="evenodd" class="s6" d="m43 89l68-39.5 68 39.5-68 39z"/>
-		<path id="Layer" fill-rule="evenodd" class="s7" d="m111 128l68-39v78l-68 39.5z"/>
-		<path id="Layer" fill-rule="evenodd" class="s8" d="m43 89l68 39v78.5l-68-39.5z"/>
-	</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="px" height="40px" viewBox="0 0 35 40" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(63.137257%,77.254903%,20.784314%);fill-opacity:1;" d="M 17.5 0 L 17.5 7.734375 L 6.777344 13.90625 L 0 10 Z M 17.5 0 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(67.843139%,83.137256%,22.352941%);fill-opacity:1;" d="M 35 10 L 28.222656 13.90625 L 17.5 7.734375 L 17.5 0 Z M 35 10 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(10.588235%,41.568628%,77.64706%);fill-opacity:1;" d="M 35 30 L 28.222656 26.09375 L 28.222656 13.90625 L 35 10 Z M 35 30 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(18.039216%,56.470591%,90.980393%);fill-opacity:1;" d="M 17.5 40 L 17.5 32.265625 L 28.222656 26.09375 L 35 30 Z M 17.5 40 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(91.764706%,12.54902%,36.862746%);fill-opacity:1;" d="M 0 30 L 6.777344 26.09375 L 17.5 32.265625 L 17.5 40 Z M 0 30 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(64.705884%,2.745098%,24.313726%);fill-opacity:1;" d="M 0 10 L 6.777344 13.90625 L 6.777344 26.09375 L 0 30 Z M 0 10 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.509804%,96.470588%,88.627452%);fill-opacity:1;" d="M 6.777344 13.90625 L 17.5 7.734375 L 28.222656 13.90625 L 17.5 20 Z M 6.777344 13.90625 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(80.784315%,85.882354%,90.196079%);fill-opacity:1;" d="M 17.5 20 L 28.222656 13.90625 L 28.222656 26.09375 L 17.5 32.265625 Z M 17.5 20 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 6.777344 13.90625 L 17.5 20 L 17.5 32.265625 L 6.777344 26.09375 Z M 6.777344 13.90625 "/>
+</g>
 </svg>
