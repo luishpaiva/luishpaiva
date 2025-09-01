@@ -35,7 +35,7 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
 
 #### &#x25AA; Desenvolvimento
 
-![Apache Hadoop](./icones/hadoop.svg) ![Apache Spark](./icones/spark.svg) ![Apache Maven](./icones/maven.svg) ![Flask](./icones/flask.svg) ![Gradle](./icones/gradle.svg) ![Flutter](./icones/flutter.svg) ![Node.js](./icones/nodejs.svg) ![React](./icones/react.svg) ![npm](./icones/npm.svg) ![yarn](./icones/yarn.svg) ![Chocolatey](./icones/chocolatey.svg) ![Bootstrap](./icones/bootstrap.svg) ![Bulma](./icones/bulma.svg)
+![Apache Hadoop](./icones/hadoop.svg) ![Apache Spark](./icones/spark.svg) ![Apache Maven](./icones/maven.svg) ![Flask](./icones/flask.svg) ![Gradle](./icones/gradle.svg) ![Flutter](./icones/flutter.svg) ![Node.js](./icones/nodejs.svg) ![React](./icones/react.svg) ![npm](./icones/npm.svg) ![yarn](./icones/yarn.svg) ![Chocolatey](./icones/chocolatey.svg) ![Bootstrap](./icones/bootstrap.svg) ![Bulma](./icones/bulma.svg) ![Tailwind](./icones/tailwind.svg)
 
 ### &#x27A1; DevOps / CI-CD
 
