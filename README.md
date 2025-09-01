@@ -3,7 +3,7 @@
 Um pouquinho sobre mim:
 
     🎓 Graduações: Gestão da Informação e Análise e Desenvolvimento de Sistemas;
-    ✍🏻 Especialização: Inteligência Artificial Aplicada, MBA em Ciências de Dados (em andamento);
+    ✍🏻 Especializações: Inteligência Artificial Aplicada, MBA em Ciências de Dados (em andamento);
     🔬 Meta: Terminar minha especialização;
     🔭 Objetivo: Mestrado em uma das minhas áreas de interesse;
     🤖 Áreas de interesse: Ciência de Dados, Inteligência Artificial, Machine Learning, Desenvolvimento de Software;
