@@ -3,8 +3,8 @@
 Um pouquinho sobre mim:
 
     🎓 Graduações: Gestão da Informação e Análise e Desenvolvimento de Sistemas;
-    ✍🏻 Especialização: Inteligência Artificial Aplicada (quase terminando), MBA em Ciências de Dados (no início);
-    🔬 Meta: Terminar minhas especializações;
+    ✍🏻 Especialização: Inteligência Artificial Aplicada, MBA em Ciências de Dados (em andamento);
+    🔬 Meta: Terminar minha especialização;
     🔭 Objetivo: Mestrado em uma das minhas áreas de interesse;
     🤖 Áreas de interesse: Ciência de Dados, Inteligência Artificial, Machine Learning, Desenvolvimento de Software;
     📑 Procurando sempre se atualizar com relação ao já aprendido;
@@ -59,7 +59,7 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
 
 ### &#x27A1; IDEs
 
-![Visual Studio Code](./icones/vscode.svg) ![Visual Studio](./icones/visualstudio.svg) ![Jupyter Lab/Notebook](./icones/jupyter.svg) ![Spyder](./icones/spyder.svg) ![RStudio](./icones/rstudio.svg) ![Google Colab](./icones/googlecolab.svg) ![Weka 3](./icones/weka.svg) ![Orange Data Mining](./icones/orange.svg) ![Eclipse](./icones/eclipse.svg) ![Apache NetBeans](./icones/netbeans.svg) ![Dev C++](./icones/devcplusplus.svg) ![Android Studio](./icones/androidstudio.svg) ![IntelliJ IDEA](./icones/intellij.svg) ![PyCharm](./icones/pycharm.svg) ![Atom](./icones/atom.svg) ![DBeaver](./icones/dbeaver.svg)
+![Visual Studio Code](./icones/vscode.svg) ![Visual Studio](./icones/visualstudio.svg) ![Jupyter Lab/Notebook](./icones/jupyter.svg) ![Spyder](./icones/spyder.svg) ![RStudio](./icones/rstudio.svg) ![Google Colab](./icones/googlecolab.svg) ![Weka 3](./icones/weka.svg) ![Orange Data Mining](./icones/orange.svg) ![Eclipse](./icones/eclipse.svg) ![Apache NetBeans](./icones/netbeans.svg) ![Dev C++](./icones/devcplusplus.svg) ![Android Studio](./icones/androidstudio.svg) ![IntelliJ IDEA](./icones/intellij.svg) ![PyCharm](./icones/pycharm.svg) ![WebStorm](./icones/webstorm.svg) ![Atom](./icones/atom.svg) ![DBeaver](./icones/dbeaver.svg)
 
 ### &#x27A1; Repositórios / Versionamento
 
@@ -67,6 +67,6 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
 
 ### &#x1F468;&#x200D;&#x1F4BB; Ferramentas mais utilizadas
 
-![OS](https://img.shields.io/badge/OS-Arch&Windows-informational?style=flat&logo=arch&windows%logoColor=white&color=blue) ![IDE](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue) ![DataBase](https://img.shields.io/badge/DataBase-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue) ![GitLab&GitHub](https://img.shields.io/badge/Version_Control-GitLab&GitHub-informational?style=flat&logo=git&logoColor=white&color=blue)
+![OS](https://img.shields.io/badge/OS-Windows/Pop!_OS-informational?style=flat&logo=windows%pop_os%logoColor=white&color=blue) ![IDE](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blue) ![DataBase](https://img.shields.io/badge/DataBase-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue) ![GitLab&GitHub](https://img.shields.io/badge/Version_Control-GitLab&GitHub-informational?style=flat&logo=git&logoColor=white&color=blue)
 
 ---
