@@ -55,7 +55,7 @@ Abaixo algumas tecnologias com as quais já tive contato e as ferramentas que co
 
 ### &#x27A1; Sistemas Operacionais
 
-![GNU/Linux Arch](./icones/arch.svg) ![GNU/Linux Manjaro](./icones/manjaro.svg) ![GNU/Linux Debian](./icones/debian.svg) ![GNU/Linux Mint](./icones/mint.svg) ![GNU/Linux Ubuntu](./icones/ubuntu.svg) ![GNU/Linux Fedora](./icones/fedora.svg) ![Microsoft Windows 10](./icones/windows10.svg) ![Microsoft Windows 11](./icones/windows11.svg)
+![Debian](./icones/debian.svg) ![Ubuntu](./icones/ubuntu.svg) ![Pop!_OS](./icones/pop_os.svg) ![Linux Mint](./icones/mint.svg) ![Fedora](./icones/fedora.svg) ![OpenSUSE](./icones/opensuse.svg) ![Arch Linux](./icones/arch.svg) ![Manjaro](./icones/manjaro.svg) ![Microsoft Windows 10](./icones/windows10.svg) ![Microsoft Windows 11](./icones/windows11.svg)
 
 ### &#x27A1; IDEs
 
